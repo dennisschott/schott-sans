@@ -130,7 +130,7 @@ body {
 
 ## Version
 
-The included font files are version `1.001`.
+The included font files are version `1.002`.
 
 ## Copyright and licensing
 
